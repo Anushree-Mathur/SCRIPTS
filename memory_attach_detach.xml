@@ -1,0 +1,6 @@
+<memory model='dimm'>
+<target>
+	<size unit='GiB'>2</size>
+	<node>0</node>
+</target>
+</memory>
